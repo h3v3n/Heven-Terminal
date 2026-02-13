@@ -22,14 +22,14 @@ sudo apt install python3-gi gir1.2-gtk-3.0 gir1.2-vte-2.91 python3-psutil
 
 
 🏃 How to Run
-Download the h3v3n_terminal.py file.
+Download the my_terminal.py file.
 
 Grant execution permissions:
-chmod +x h3v3n_terminal.py
+chmod +x my_terminal.py
 
 
 Launch the terminal:
-./h3v3n_terminal.py
+./my_terminal.py
 
 
 🕯️ Enabling Background Blur (Glass Effect)
